@@ -1,0 +1,1 @@
+I **Buoni del Tesoro Poliennale** sono obbligazioni a medio-lungo termine con tasso di rendimento fisso pagato tramite cedole semestrali.

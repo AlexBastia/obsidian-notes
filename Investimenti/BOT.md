@@ -1,0 +1,1 @@
+I **Buoni Ordinari del Tesoro** sono obbligazioni a breve termine il cui rendimento e' determinato dalla differenza fra il **valore nominale** (prezzo di vendita) e il **prezzo di emissione** (prezzo di acquisto). 

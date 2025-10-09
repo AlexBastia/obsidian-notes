@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "4d21aafe3714066b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f68740aadf52404d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6a180c3ffddc8df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uni/Anno3/SI/Statechart Diagrams.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Statechart Diagrams"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a601c3c8ce60a68",
+    "type": "split",
+    "children": [
+      {
+        "id": "329da942cf5c9065",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68622ee23259e867",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6150c04bbd39abcb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Plans",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c452d2c238c826a8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "starred"
+            }
+          },
+          {
+            "id": "5f45cd2260d064c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b9843d405103317",
+    "type": "split",
+    "children": [
+      {
+        "id": "644945aaac838006",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10522ac0846cadb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1494c30c617cc06d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6bcf72d0b304f4a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "38c6de31bfd7a764",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f6a180c3ffddc8df",
+  "lastOpenFiles": [
+    "Pasted image 20251008105634.png",
+    "Pasted image 20251008105517.png",
+    "Pasted image 20251008105230.png",
+    "Uni/Anno3/SI/OO Design.md",
+    "Uni/Anno3/SI/Collaboration Diagrams.md",
+    "Uni/Anno3/SI/Sequence Diagrams.md",
+    "Uni/Anno3/SI/Activity Diagrams.md",
+    "Uni/Anno3/SI/Statechart Diagrams.md",
+    "Pasted image 20251008103957.png",
+    "Uni/Anno3/SI/Class Diagrams.md",
+    "Pasted image 20251008101451.png",
+    "Pasted image 20251007183948.png",
+    "Pasted image 20251007183725.png",
+    "Pasted image 20251007183640.png",
+    "Pasted image 20251007182853.png",
+    "Pasted image 20251007181601.png",
+    "Uni/Anno3/SI/OO Analysis.md",
+    "Uni/Anno3/SI/Use Case Diagrams.md",
+    "Pasted image 20251007180413.png",
+    "Uni/Anno3/SI/OO Concept Modelling.md",
+    "Uni/Anno3/SI/UML.md",
+    "Uni/Anno3/SI/Inheritance.md",
+    "Uni/Anno3/SI/Object Oriented development.md",
+    "Uni/Anno3/SI/Polymorphism.md",
+    "Uni/Anno3/SI/OO Model.md",
+    "Untitled.md",
+    "Uni/Anno3/Untitled.md",
+    "Uni/Anno3/SI",
+    "Untitled.base",
+    "Uni/Anno3",
+    "Uni",
+    "Propositi 2023/Propositi per l'anno 2023.md",
+    "Propositi 2023/Propositi 2025 (this is my year).md",
+    "Propositi 2023/Job for 2023.md",
+    "Investimenti/I miei investimenti.md",
+    "Investimenti/Investire.md",
+    "Investimenti/Guadagno potenziale.md",
+    "Investimenti/azioni.md",
+    "Investimenti/obbligazioni corporate.md",
+    "Investimenti/titoli di Stato.md",
+    "Investimenti",
+    "ExamPanic"
+  ]
+}

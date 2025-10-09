@@ -1,0 +1,15 @@
+-[ ] Fai tutti gli esami e progetti (almeno 26)
+-[ ] Arriva a 80kg
+-[ ] Leggi tutti i libri che ho comprato
+-[ ] Non perdere opportunita' in generale
+-[ ] Aiuta kappa a trovare un cane da guardia
+-[ ] Se viene un artista in italia che vuoi vedere vacci
+-[ ] Continua a correre e palestra (almeno 3 volte a settimana)
+-[ ] Vacanza pasqua e estate 
+-[ ] Prova a parlare con piu' persone ed essere piu' aperto
+-[ ] Impara a cucinare piu' piatti
+-[ ] Pulire piu spesso l'appartamento
+-[ ] Vai alle lezioni (massimo skippa 2 a sett.)
+-[ ] Fai lavoretti per soldi per comprare una tenda per andare a bivaccare con i bro (non all'ikea)
+-[ ] Fare qualcosa con i cugini in inghilterra
+-[ ] Inizia one piece

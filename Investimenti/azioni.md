@@ -1,0 +1,1 @@
+Sono le singole parti di cui e' costituito il capitale di una società per azioni. Chi possiede un azione diventa quindi parte della società, e il suo profitto dipende dall'andamento di questa. 
