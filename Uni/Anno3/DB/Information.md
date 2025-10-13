@@ -1,0 +1,1 @@
+Facts provided or learned about something or someone.
