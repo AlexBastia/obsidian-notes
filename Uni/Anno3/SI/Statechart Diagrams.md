@@ -1,4 +1,4 @@
-Describes the evolution of the states of any classifier, commonly used for objects. 
+Describes the evolution of the states of any classifier, commonly used for objects (but can also refer to subsystem etc.)
 Shows the behaviour of *one* object:
 - how does it change its state based on the messages it
 receives
@@ -26,4 +26,5 @@ Main methods:
 Guard condition:
 - Transition only occurs when guard evaluates to true
 - Guards of transitions exiting one state are mutually exclusive
+
 
