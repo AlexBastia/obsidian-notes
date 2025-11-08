@@ -13,15 +13,100 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/Anno3/SI/Design Patterns.md",
+                "file": "Builder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Patterns"
+              "title": "Builder"
+            }
+          },
+          {
+            "id": "06c6d67ef8bbc2be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creational Patterns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Creational Patterns"
+            }
+          },
+          {
+            "id": "ae04441c07fd03a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Singleton.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Singleton"
+            }
+          },
+          {
+            "id": "da49ea5774d9e4b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prototype.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prototype"
+            }
+          },
+          {
+            "id": "90eab2b0173c03cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factory Method.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Factory Method"
+            }
+          },
+          {
+            "id": "c13949d09f0115d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abstract Factory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abstract Factory"
+            }
+          },
+          {
+            "id": "b05f469b9c0c13ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Builder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Builder"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,48 +263,48 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a8557e246506a3ab",
+  "active": "06c6d67ef8bbc2be",
   "lastOpenFiles": [
-    "Uni/Anno3/SI/Refactoring.md",
+    "Builder.md",
     "Uni/Anno3/SI/Design Patterns.md",
-    "Uni/Anno3/SI/OCL.md",
-    "Uni/Anno3/SI/Real Time UML.md",
-    "Excalidraw/Drawing 2025-10-12 15.23.07.excalidraw.md",
+    "Creational Patterns.md",
+    "Singleton.md",
+    "Prototype.md",
+    "Pasted image 20251108140331.png",
+    "Factory Method.md",
+    "Pasted image 20251108140102.png",
+    "Abstract Factory.md",
+    "Pasted image 20251108135934.png",
+    "Pasted image 20251108135739.png",
+    "Behavioral Patterns.md",
+    "Structural Patterns.md",
+    "Uni/Anno3/SI/Use Case Diagrams.md",
+    "Pasted image 20251029205706.png",
+    "Uni/Anno3/SI/OO Concept Modelling.md",
+    "Uni/Anno3/SI/UML.md",
     "Uni/Anno3/SI/System Design.md",
+    "Uni/Anno3/SI/Statechart Diagrams.md",
+    "Uni/Anno3/SI/Sequence Diagrams.md",
+    "Uni/Anno3/SI/Refactoring.md",
+    "Uni/Anno3/SI/Real Time UML.md",
+    "Uni/Anno3/SI/Polymorphism.md",
+    "Uni/Anno3/SI/OO Model.md",
+    "Uni/Anno3/SI/OO Design.md",
+    "Uni/Anno3/SI/OO Analysis.md",
+    "Uni/Anno3/SI/OCL.md",
+    "Uni/Anno3/SI/Object Oriented development.md",
     "Uni/Anno3/SI/Interaction Diagrams.md",
-    "Uni/Anno3/SI/Components.md",
+    "Uni/Anno3/SI/Inheritance.md",
+    "Uni/Anno3/SI/Collaboration Diagrams.md",
     "Pasted image 20251013131826.png",
     "Pasted image 20251013131743.png",
     "Pasted image 20251013131449.png",
     "Pasted image 20251013131306.png",
     "Pasted image 20251013130846.png",
-    "Pasted image 20251013130131.png",
-    "Pasted image 20251013130047.png",
-    "Pasted image 20251013125707.png",
-    "Pasted image 20251013125641.png",
-    "Quantum Computing/Unitary-Operations.excalidraw.md",
-    "Uni/Anno3/DB/Relational Model.md",
-    "Pasted image 20251011204012.png",
-    "Uni/Anno3/DB/Logic Relation.md",
-    "Uni/Anno3/DB/Data Model.md",
-    "Uni/Anno3/DB/DBMS.md",
-    "Uni/Anno3/SI/OO Model.md",
-    "Uni/Anno3/SI/OO Concept Modelling.md",
-    "Uni/Anno3/DB/Database.md",
-    "Uni/Anno3/DB/Transaction.md",
-    "Uni/Anno3/DB/Data.md",
-    "Uni/Anno3/DB/IT System.md",
-    "Uni/Anno3/DB/Information System.md",
-    "Uni/Anno3/DB/Information.md",
     "Uni/Anno3/DB",
     "Excalidraw",
     "Untitled.canvas",
-    "2025-10-10.md",
-    "Uni/Anno3/SI/Statechart Diagrams.md",
     "Quantum Computing",
-    "Uni/Anno3/SI/OO Design.md",
-    "Uni/Anno3/SI/Collaboration Diagrams.md",
-    "Uni/Anno3/SI/Sequence Diagrams.md",
     "Uni/Anno3/SI",
     "Untitled.base",
     "Uni/Anno3",
