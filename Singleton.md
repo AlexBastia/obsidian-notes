@@ -1,0 +1,1 @@
+Used to create only one instance of a class.
