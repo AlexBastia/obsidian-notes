@@ -1,0 +1,1 @@
+Uses **EXEPT** keyword. Can be expressed using nested SELECT queries.

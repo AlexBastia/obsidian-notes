@@ -13,7 +13,4 @@ The generic structure of an OO Analysis is as follows:
 Read the textual description of the OO Concept Modelling and extrapolate all the possible elements that can be described with a class.
 
 For each of these classes, create [[Class Diagrams]].
-## Associations
-
-## Roles
 
