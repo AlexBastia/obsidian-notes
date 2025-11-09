@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/Anno3/SI/Chain Of Responsibilities.md",
+                "file": "Uni/Anno3/SI/Factory Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chain Of Responsibilities"
+              "title": "Factory Method"
             }
           }
         ]
@@ -179,9 +179,15 @@
   },
   "active": "a8557e246506a3ab",
   "lastOpenFiles": [
+    "Uni/Anno3/SI/Design Patterns.md",
+    "Uni/Anno3/SI/Factory Method.md",
+    "Uni/Anno3/SI/Abstract Factory.md",
+    "Uni/Anno3/SI/Builder.md",
+    "Uni/Anno3/SI/Creational Patterns.md",
+    "Uni/Anno3/SI/OCL.md",
+    "Uni/Anno3/SI/Chain Of Responsibilities.md",
     "Uni/Anno3/SI/Refactoring.md",
     "Uni/Anno3/SI/Real Time UML.md",
-    "Uni/Anno3/SI/Design Patterns.md",
     "Structural Patterns.md",
     "Singleton.md",
     "Prototype.md",
@@ -190,17 +196,12 @@
     "Pasted image 20251108135934.png",
     "Pasted image 20251108135739.png",
     "Pasted image 20251029205706.png",
-    "Factory Method.md",
-    "Creational Patterns.md",
-    "Builder.md",
-    "Behavioral Patterns.md",
-    "Abstract Factory.md",
+    "Uni/Anno3/SI/Behavioral Patterns.md",
     "Uni/Anno3/SI/Python.md",
-    "Uni/Anno3/SI/Chain Of Responsibilities.md",
     "Uni/Anno3/SI/OO Analysis.md",
     "Uni/Anno3/SI/Class Diagrams.md",
     "Uni/Anno3/DB/Aggregate Functions.md",
-    "Exists.md",
+    "Uni/Anno3/SI/Exists.md",
     "Uni/Anno3/DB/Untitled",
     "Uni/Anno3/DB/Nested Queries.md",
     "Uni/Anno3/DB/Intersection.md",
@@ -210,7 +211,6 @@
     "Quantum Computing/Effects of quantum mechanics on computer science.md",
     "Quantum Computing/Uncertainty.md",
     "Quantum Computing/Determinism.md",
-    "Quantum Computing/Locality.md",
     "Pasted image 20251020174147.png",
     "Pasted image 20251020173652.png",
     "Pasted image 20251013131826.png",
