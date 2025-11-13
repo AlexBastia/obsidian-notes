@@ -1,0 +1,1 @@
+We can create a derived class from the type class and the object instance of the same class with the same name. The class can be seen as the Prototype (?). 
